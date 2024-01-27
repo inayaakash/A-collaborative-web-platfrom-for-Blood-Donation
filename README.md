@@ -63,16 +63,16 @@ Collaborated closely with healthcare IT specialists, ensuring seamless integrati
 Accomplishments: 
 
 - Successful implementation of user authentication and donor registration.
--Positive feedback from initial user testing.
--Enhanced collaboration among donors, recipients, and healthcare providers. 
+- Positive feedback from initial user testing.
+- Enhanced collaboration among donors, recipients, and healthcare providers. 
 
 ### Future Roadmap:
 
 Next Steps: 
 
 - Implement blood donation scheduling and tracking features.
--Enhance user interface for optimal user experience.
--Conduct additional user testing and gather feedback for continuous improvement. 
+- Enhance user interface for optimal user experience.
+- Conduct additional user testing and gather feedback for continuous improvement. 
 
 Long-term Goals: 
 
