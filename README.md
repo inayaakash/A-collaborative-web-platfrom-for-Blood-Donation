@@ -3,15 +3,15 @@
 The collaborative web platform for blood donation aims to create a user-friendly and dynamic space where donors, recipients, and healthcare professionals can collaborate seamlessly. Following the Agile Software Development Life Cycle (SDLC), this report outlines the progress, challenges, and outcomes of the project
 ## Agile Model: 
 ### Project Overview: 
- Project Objectives:
+Project Objectives:
 - Establish a user-friendly web platform for blood donation collaboration.
 Enable donors to register, share blood group information, and schedule donations.
-Facilitate communication between donors, recipients, and healthcare providers.
- Scope:
+Facilitate communication between donors, recipients, and healthcare providers. 
+Scope:
 - The project scope includes the development of a collaborative web platform, user authentication, real-time notifications, and integration with existing healthcare systems. 
 ### Agile SDLC Model:
 Agile Framework:
-- The project follows the Scrum Agile framework, emphasizing iterative development and flexibility to adapt to changing requirements.
+- The project follows the Scrum Agile framework, emphasizing iterative development and flexibility to adapt to changing requirements. 
 Scrum Components:
 - Sprints: Two-week sprints for incremental development.
 - Daily Stand-ups: Ensuring continuous collaboration and issue resolution.
@@ -20,11 +20,11 @@ Scrum Components:
 ### Project Progress:
 Sprint Planning:
 - Identified and prioritized features based on stakeholder input.
-- Defined user stories and tasks for each sprint.
+- Defined user stories and tasks for each sprint. 
 Sprint Execution:
 - Developed user authentication system.
 - Implemented donor registration and profile creation.
-- Integrated real-time notifications for donors and recipients.
+- Integrated real-time notifications for donors and recipients. 
 Sprint Review and Retrospective:
 - Gathered feedback from stakeholders and team members.
 - Addressed challenges and adjusted project priorities for subsequent sprints.
