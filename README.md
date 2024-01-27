@@ -6,12 +6,12 @@ The collaborative web platform for blood donation aims to create a user-friendly
 Project Objectives:
 - Establish a user-friendly web platform for blood donation collaboration.
 Enable donors to register, share blood group information, and schedule donations.
-Facilitate communication between donors, recipients, and healthcare providers. 
+- Facilitate communication between donors, recipients, and healthcare providers. 
 Scope:
 - The project scope includes the development of a collaborative web platform, user authentication, real-time notifications, and integration with existing healthcare systems. 
 ### Agile SDLC Model:
 Agile Framework:
-- The project follows the Scrum Agile framework, emphasizing iterative development and flexibility to adapt to changing requirements. 
+- The project follows the Scrum Agile framework, emphasizing iterative development and flexibility to adapt to changing requirements.
 Scrum Components:
 - Sprints: Two-week sprints for incremental development.
 - Daily Stand-ups: Ensuring continuous collaboration and issue resolution.
